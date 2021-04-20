@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f8177ec-409d-4101-9e44-770e91bff59f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ecommerce/ecom/command/rename.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/searchengine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/searchengine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecom/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/ecom/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/ecommerce/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_add_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_add_products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_dashboard_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_dashboard_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_update_customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_update_customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_update_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_update_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_view_booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/admin_view_booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/contactussuccess.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/contactussuccess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/customer_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/customer_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/customer_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/customer_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/customer_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/customer_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/download_invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/download_invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/edit_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/edit_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/feedback_sent.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/feedback_sent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/homebase.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/homebase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/my_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/my_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/my_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/my_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/payment.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/payment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/send_feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/send_feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/update_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/update_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/view_customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/view_customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/ecom/view_feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/ecom/view_feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchengine/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchengine/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchengine/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchengine/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchengine/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce" />
+  </component>
+  <component name="ProjectId" id="1rMySpem6kjDJEWcG4XiBtybZRd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Library Management System Project In Django Source Code" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f8177ec-409d-4101-9e44-770e91bff59f" name="Default Changelist" comment="" />
+      <created>1618800255909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618800255909</updated>
+      <workItem from="1618800257203" duration="303000" />
+      <workItem from="1618807285885" duration="1062000" />
+      <workItem from="1618808679640" duration="5702000" />
+      <workItem from="1618823392947" duration="1414000" />
+      <workItem from="1618831063830" duration="2048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
